@@ -1,2 +1,5 @@
 # Java Class Files
 *.class
+
+# Rust Target Directory (for Compiled Files)
+**/target
