@@ -1,0 +1,11 @@
+# Above Average - Expected Outputs
+
+## Sample 1
+
+```
+40.000%
+57.143%
+33.333%
+66.667%
+55.556%
+```
